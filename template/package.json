@@ -33,7 +33,7 @@
     "babel-plugin-transform-vue-jsx": "3.7.0",
     "babel-preset-stage-2": "6.24.1",
     "chalk": "4.1.0",
-    "copy-webpack-plugin": "5.1.1",
+    "copy-webpack-plugin": "7.0.0",
     "css-loader": "3.6.0",
     "eslint": "7.17.0",
     "eslint-config-standard": "14.1.1",
